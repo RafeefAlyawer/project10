@@ -23,6 +23,6 @@ public class DemoTest10 {
 		 System.out.println(a+b);
 	 }
 	public void subtract(int a , int b){
-		System.out.prijtln(a-b);
+		System.out.println(a-b);
 
 }

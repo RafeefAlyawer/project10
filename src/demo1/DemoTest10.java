@@ -18,6 +18,7 @@ public class DemoTest10 {
 			 System.out.println("Less");
 			 
 		 }
+	 }
 	 public void add(int a , int b) {
 		 System.out.println(a+b);
 	 }
